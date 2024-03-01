@@ -50,6 +50,7 @@ for l in lines:
 
 print(sum_cards)
 
+
 print("Sum: ", sum_cards)
 
 
