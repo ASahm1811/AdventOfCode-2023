@@ -6,3 +6,6 @@ __pycache__/main.cpython-312.pyc
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/vcs.xml
 input.txt
+__pycache__/day5.cpython-312.pyc
+__pycache__/day15.cpython-312.pyc
+tests/__pycache__/test_day15.cpython-312.pyc
