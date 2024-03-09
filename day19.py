@@ -259,7 +259,6 @@ def workflow(func, x, m, a, s, value, values):
                                         value = workflow(r.split(':')[1], x, m,
                                                          a, s, value, values)
                         if '>' in r.split(':')[0]:
-                            #                             print(r.split(':')[0].split('>'))
                             if r.split(':')[0].split('>')[0] == 'x':
                                 if x > (int(r.split(':')[0].split('>')[1])):
                                     if r.split(':')[1] == 'A':
