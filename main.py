@@ -6,4 +6,4 @@ file = open(path_input, 'r')
 lines = []
 
 for line in file.readlines():
-    lines.append(line)
+    lines.append(line.strip())
